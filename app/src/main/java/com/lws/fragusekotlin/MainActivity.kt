@@ -14,6 +14,9 @@ import kotlinx.android.synthetic.main.activity_main.*
 import org.jetbrains.anko.toast
 import java.io.File
 
+/**
+ * 参考：https://blog.csdn.net/xiazunyang/article/details/88075620
+ */
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
